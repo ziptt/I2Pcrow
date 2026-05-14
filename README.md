@@ -2,6 +2,8 @@
 
 `I2Pcrow` is a TUI torrent client built on libtorrent and FTXUI. It only works over I2P - all tracker and peer traffic goes through I2P, nothing touches the clearnet.
 
+<img width="1541" height="851" alt="Screenshot" src="https://github.com/user-attachments/assets/1d7e6979-8eb8-46d6-848c-6afe34e6f639" />
+
 ## Features
 
 - Download and upload multiple I2P torrents simultaneously.
